@@ -13,7 +13,7 @@ This C program demonstrates a basic implementation of a stack data structure usi
 
 ## Code Structure
 
-- `stack.c`: The main program that demonstrates the stack implementation.
+- `main.c`: The main program that demonstrates the stack implementation.
 - `stack.h`: Header file defining the stack structure and function prototypes.
 - `stack.c`: Source file containing the stack implementation functions.
 
